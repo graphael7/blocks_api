@@ -1,0 +1,2 @@
+class XBlock < ApplicationRecord
+end
